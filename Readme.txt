@@ -1,4 +1,3 @@
-
-Welcome gay!	
+Welcome!	
 
 This is the first opensource
